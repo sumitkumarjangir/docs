@@ -17,8 +17,8 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Get Early Access",
+      "url": "https://www.codact.dev/contact"
     }
   ],
   "topbarCtaButton": {
@@ -26,10 +26,6 @@
     "url": "https://dashboard.mintlify.com"
   },
   "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
   ],
   "anchors": [
     {
@@ -38,14 +34,14 @@
       "url": "https://mintlify.com/docs"
     },
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "name": "Discord",
+      "icon": "discord",
+      "url": "https://discord.anarchy.ai/"
     },
     {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "name": "X",
+      "icon": "x",
+      "url": "https://x.com/anarchy_ai_inc"
     }
   ],
   "navigation": [
@@ -54,7 +50,7 @@
       "pages": [
         "introduction",
         "quickstart",
-        "development"
+        "examples"
       ]
     },
     {
@@ -85,7 +81,8 @@
   ],
   "footerSocials": {
     "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "github": "https://github.com/anarchy-ai/llm-vm",
+    "linkedin": "https://www.linkedin.com/company/anarchy-ai",
+    "discord": "https://discord.anarchy.ai/"
   }
 }
