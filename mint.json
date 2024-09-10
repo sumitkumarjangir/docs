@@ -15,18 +15,12 @@
       "to": "#07C983"
     }
   },
-  "topbarLinks": [
-    {
-      "name": "Get Early Access",
-      "url": "https://www.codact.dev/contact"
-    }
-  ],
+  "topbarLinks": [],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Get Early Access",
+    "url": "https://www.codact.dev/contact"
   },
-  "tabs": [
-  ],
+  "tabs": [],
   "anchors": [
     {
       "name": "Discord",
@@ -42,11 +36,7 @@
   "navigation": [
     {
       "group": "Get Started",
-      "pages": [
-        "introduction",
-        "quickstart",
-        "examples"
-      ]
+      "pages": ["introduction", "quickstart"]
     }
   ],
   "footerSocials": {
